@@ -29,16 +29,12 @@ Alle Repos sind:
 Weil ich’s spannend finde, wie Windows tickt, wie Threat-Intel funktioniert, wie man XSS/RCE demonstriert, wie man Proxy-Chains baut oder wie man GPU-Crashes fixxt.  
 Und weil PowerShell einfach die geilste Shell ever ist 😄
 
-Falls du was Cooles brauchst:
-- Schreib mir gerne ein Issue oder fork einfach rum  
-- Wenn du Bock auf Kollab hast: lass hören!
-
 Stay curious & keep hacking (legal of course 😉)  
 DaUfooo
 
 #PowerShell #OSINT #Pentest #Windows #ThreatIntel #GPU #Proxy #Ransomware #XSS #RCE
 
--------------------------------------------------------------------------------------------------------------------------------------------------
+--
 
 # DaUfooo – PowerShell Security & OSINT Tool Collection (Agent-Safe Profile)
 
