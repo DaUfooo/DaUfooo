@@ -21,13 +21,8 @@ Meistens PowerShell, manchmal JS/HTML, immer clean & low-resource – damit’s 
 
 Alle Repos sind:
 - 100 % lesbarer Code (kein Chaos-Obfuscation)  
-- Mit safety-reports & Benchmarks (damit du weißt, was es frisst)  
 - Für lokale Nutzung designed – nichts Böses im Hintergrund  
 - MIT-ähnlich frei nutzbar – fork & baue drauf rum
-
-### Warum ich das alles baue
-Weil ich’s spannend finde, wie Windows tickt, wie Threat-Intel funktioniert, wie man XSS/RCE demonstriert, wie man Proxy-Chains baut oder wie man GPU-Crashes fixxt.  
-Und weil PowerShell einfach die geilste Shell ever ist 😄
 
 Stay curious & keep hacking (legal of course 😉)  
 DaUfooo
