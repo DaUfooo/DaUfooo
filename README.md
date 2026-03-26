@@ -1,10 +1,6 @@
 # Hey, ich bin DaUfooo 👋
 
-PowerShell-Nerd | OSINT & Security-Tools | Windows-Internals | Pentest-Demos | GPU & Proxy Stuff  
-Alles, was ich baue, ist für den Alltag, Research, CTFs, Bug-Bounty-Übungen oder einfach weil’s Spaß macht.  
-Meistens PowerShell, manchmal JS/HTML, immer clean & low-resource – damit’s auch auf alten Kisten läuft.
-
-### Was du hier findest (meine aktuellen Lieblinge)
+### Was du hier findest
 
 - **Live-Ransomware-Viewer** – schöne GUI, die aktuelle Ransomware-Opfer live zeigt (Threat-Intel-Feeds)  
 - **C2_Servers** – mergt öffentliche C2-IP-Listen (CriminalIP & Co.) – super für Research  
@@ -20,7 +16,7 @@ Meistens PowerShell, manchmal JS/HTML, immer clean & low-resource – damit’s 
 - **WinUpdater_NoGUI** – headless Windows-Update für Server & Automation
 
 Alle Repos sind:
-- 100 % lesbarer Code (kein Chaos-Obfuscation)  
+- 100 % lesbarer Code
 - Für lokale Nutzung designed – nichts Böses im Hintergrund  
 - MIT-ähnlich frei nutzbar – fork & baue drauf rum
 
